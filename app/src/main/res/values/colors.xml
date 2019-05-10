@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tan">#FFDB87</color>
+    <color name="green">#2CA544</color>
+    <color name="nude">#F4E3D6</color>
+    <color name="nude1">#BC9E82</color>
+    <color name="darkblue">#0E2B89</color>
+    <color name="sourlemon">#ffeaa7</color>
+    <color name="brighty">#fdcb6e</color>
+
+</resources>
